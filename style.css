@@ -1,10 +1,4 @@
 /*
-Theme Name: Fictional University
-Author: Jeremy
-Version 1.0
-*/
-
-/*
  Theme Name: Fictional University
  Author: Brad
  Version: 1.0
@@ -18,7 +12,7 @@ Version 1.0
  * 1. Correct the line height in all browsers.
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
- html {
+html {
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
 }
